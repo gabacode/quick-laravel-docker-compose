@@ -1,7 +1,7 @@
 # quick-laravel-docker-compose
 Docker-compose container for quick deployment
 
-Includes:
+# Includes:
 PHP7.4
 Nginx
 phpMyAdmin
