@@ -7,7 +7,7 @@ phpMyAdmin<br>
 
 # QuickStart
 ## INSTALL LARAVEL
-'''composer create-project laravel/laravel .'''
+composer create-project laravel/laravel .
 
 ## Change .env file with:
 DB_CONNECTION=mysql<br>
