@@ -1,11 +1,10 @@
 # Docker-compose container for quick deployment
 
-# Includes:
+## Includes:
 PHP7.4<br>
 Nginx<br>
 phpMyAdmin<br>
 
-# QuickStart
 ## INSTALL LARAVEL
 ```
 composer create-project laravel/laravel .
