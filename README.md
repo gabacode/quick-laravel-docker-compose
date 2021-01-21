@@ -13,12 +13,12 @@ composer create-project laravel/laravel .
 
 ## Change .env file with:
 ```
-DB_CONNECTION=mysql<br>
-DB_HOST=mysql<br>
-DB_PORT=3306<br>
-DB_DATABASE=homestead<br>
-DB_USERNAME=homestead<br>
-DB_PASSWORD=secret<br>
+DB_CONNECTION=mysql
+DB_HOST=mysql
+DB_PORT=3306
+DB_DATABASE=homestead
+DB_USERNAME=homestead
+DB_PASSWORD=secret
 ```
 In order to use php artisan, call the full path from inside the container<br>
 Example:<br>
