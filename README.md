@@ -5,6 +5,11 @@ PHP7.4 and MySQL<br>
 Nginx<br>
 phpMyAdmin<br>
 
+## QUICK START
+```
+docker-compose build && docker-compose up -d
+```
+
 ## INSTALL LARAVEL
 ```
 composer create-project laravel/laravel .
