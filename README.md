@@ -17,6 +17,6 @@ DB_DATABASE=homestead<br>
 DB_USERNAME=homestead<br>
 DB_PASSWORD=secret<br>
 
-In order to use php artisan, call the full path from inside the container
-Example: 
+In order to use php artisan, call the full path from inside the container<br>
+Example:<br>
 docker-compose exec php php /var/www/html/artisan config:cache
