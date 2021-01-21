@@ -1,7 +1,7 @@
 # Docker-compose container for quick deployment
 
 ## Includes:
-PHP7.4<br>
+PHP7.4 and MySQL<br>
 Nginx<br>
 phpMyAdmin<br>
 
