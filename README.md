@@ -11,6 +11,7 @@ docker-compose build && docker-compose up -d
 ```
 
 ## INSTALL LARAVEL
+Move to the /src directory and type:
 ```
 composer create-project laravel/laravel .
 ```
@@ -29,3 +30,4 @@ Example:<br>
 ```
 docker-compose exec php php /var/www/html/artisan config:cache
 ```
+You need php-xml installed in order for this to work.
